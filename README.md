@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 Esta es la agenda de contactos en react de Enmanuel Zorrilla Pimentel 2022-2091:
 ![Agenda-contactos-react](agenda-contactos-react.png)
+poner el comando npm install para instalar lo necesario para correr el proyecto.
 =======
 # Agenda-contactos-react
 Agenda de contactos hecha en react

@@ -28,12 +28,6 @@ function App() {
   }
 
   const addContact = async (event) => {
-
-    // if (nameRef.current.value == "" && lastNameRef.current.value == "" && phoneRef.current.value == "") {
-      // event.preventDefault()
-      // alert("Add some data to add to the table.")
-    // }
-    // else {
       event.preventDefault()
       const nombre = nameRef.current.value
       const apellido = lastNameRef.current.value
